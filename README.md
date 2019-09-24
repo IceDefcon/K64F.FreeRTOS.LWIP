@@ -1,5 +1,5 @@
 # TCP/IP STACK for K64F Board
-# Driven by FreeRTOS and LWIP Stack
+# Driven by FreeRTOS & LWIP Stack
 
 
 1. System has been build from NXP sources https://mcuxpresso.nxp.com/en/welcome
