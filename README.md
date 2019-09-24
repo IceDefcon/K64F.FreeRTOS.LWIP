@@ -4,7 +4,7 @@
 
 
 1. System has been build from NXP sources https://mcuxpresso.nxp.com/en/welcome
-2. The original buiding scrips has been replaced by single Makefile from scratch for better understanding !
+2. The original buiding scrips has been replaced by single Makefile --> from scratch --> for better understanding !
 
 
 # ICE
