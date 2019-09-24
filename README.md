@@ -1,5 +1,4 @@
 # TCP/IP STACK for K64F Board
-# =================================
 # Driven by FreeRTOS and LWIP Stack
 
 
