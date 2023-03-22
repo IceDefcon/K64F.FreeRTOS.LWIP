@@ -2,11 +2,11 @@
 # Driven by FreeRTOS & LWIP Stack
 
 
-1. System has been build from NXP sources https://mcuxpresso.nxp.com/en/welcome
+1. System is build from the NXP sources https://mcuxpresso.nxp.com/en/welcome
 2. The original buiding scrips ARE replaced by a single Makefile --> For better understanding
 
 To do:
-1. Makefile is obsolete and need to be upgraded to avoid multilpe compilation of unchanges sources
+1. Makefile is obsolete and need to be upgraded to avoid compilation of unchanges sources
 
 
 # ICE
